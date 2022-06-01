@@ -18,3 +18,4 @@ This is a notes taking repository which will have code and my understanding of t
 source activate py36
 python -m venv .env
 ```
+Commit
